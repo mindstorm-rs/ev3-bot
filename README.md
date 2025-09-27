@@ -1,1 +1,1 @@
-# ev3-bot
+High level library to implement bots based on `ev3rt-rs`.

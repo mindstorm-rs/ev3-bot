@@ -1,0 +1,13 @@
+[package]
+name = "ev3-bot"
+version = "0.9.0"
+edition = "2021"
+
+[lib]
+crate-type = ["lib"]
+
+[dependencies]
+ev3rt = "0.9.0"
+flagset = "0.4.6"
+futures-micro = "0.5.0"
+pin-project-lite = "0.2.4"
