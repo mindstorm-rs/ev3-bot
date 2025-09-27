@@ -1,7 +1,11 @@
 [package]
 name = "ev3-bot"
 version = "0.9.0"
+authors = ["Massimiliano Mantione <massimiliano.mantione@gmail.com>"]
+description = "High level library to implement bots based on `ev3rt-rs`."
+license= "MIT"
 edition = "2021"
+
 
 [lib]
 crate-type = ["lib"]
